@@ -1,60 +1,30 @@
-\# Changelog
+# Changelog
 
+## [9.2.1] - 2026-01-15
 
+### Added
+- Vanguard 2026.01 bypass
+- New hotkey system
+- ESP distance indicator
 
-\## \[9.2.1] - 2026-01-15
+### Fixed
+- Triggerbot delay issue
+- ESP performance drop
+- Crash issue (Windows 11)
 
+## [9.2.0] - 2026-01-01
 
+### Added
+- Aim Assist module
+- No Recoil system
+- Auto-update
 
-\### Eklendi
+### Changed
+- Menu design renewed
+- Triggerbot algorithm optimized
 
-\- Vanguard 2026.01 bypass
+## [9.1.0] - 2025-12-15
 
-\- Yeni hotkey sistemi
-
-\- ESP mesafe göstergesi
-
-
-
-\### Düzeltildi
-
-\- Triggerbot gecikme sorunu
-
-\- ESP performans düşüşü
-
-\- Crash sorunu (Windows 11)
-
-
-
-\## \[9.2.0] - 2026-01-01
-
-
-
-\### Eklendi
-
-\- Aim Assist modülü
-
-\- No Recoil sistemi
-
-\- Otomatik güncelleme
-
-
-
-\### Değiştirildi
-
-\- Menü tasarımı yenilendi
-
-\- Triggerbot algoritması optimize edildi
-
-
-
-\## \[9.1.0] - 2025-12-15
-
-
-
-\### Eklendi
-
-\- İlk sürüm
-
-\- Triggerbot temel özellikleri
-
+### Added
+- Initial release
+- Basic triggerbot features
