@@ -50,7 +50,6 @@ Valorant Triggerbot is a high-performance triggerbot software that is undetected
 
 ## Security
 
-- VirusTotal: 0/72 (clean)
 - Vanguard: Undetected
 - Ban Risk: Low
 - Update: Automatic
