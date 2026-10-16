@@ -5,70 +5,70 @@
 ![Downloads](https://img.shields.io/badge/downloads-12.4k-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
 
-## Hakkında
+## About
 
-Valorant Triggerbot, Vanguard anti-cheat tarafından tespit edilmeyen, yüksek performanslı bir triggerbot yazılımıdır. 2026 sürümü ile tamamen yenilenmiş algoritma ve gelişmiş bypass teknikleri içerir.
+Valorant Triggerbot is a high-performance triggerbot software that is undetected by Vanguard anti-cheat. The 2026 version includes a completely renewed algorithm and advanced bypass techniques.
 
-## Özellikler
+## Features
 
-- Undetected - Vanguard bypass (güncel)
-- Triggerbot - Otomatik ateş etme
-- Aim Assist - Hafif nişan yardımı
-- No Recoil - Geri tepme sıfırlama
-- ESP - Rakip konum gösterimi
-- Custom Delay - Kişiselleştirilebilir gecikme
-- Hotkey Sistemi - Özelleştirilebilir tuşlar
-- Düşük CPU Kullanımı
+- Undetected - Vanguard bypass (up to date)
+- Triggerbot - Automatic firing
+- Aim Assist - Light aim assistance
+- No Recoil - Recoil reset
+- ESP - Enemy position display
+- Custom Delay - Configurable delay
+- Hotkey System - Fully customizable keys
+- Low CPU Usage
 
-## Kurulum
+## Installation
 
-1. `ValorantTriggerbot.exe` dosyasını indirin
-2. Dosyayı masaüstüne çıkartın
-3. Yönetici olarak çalıştırın
-4. Valorant'ı açın
-5. Triggerbot otomatik olarak aktif olacaktır
+1. Download `ValorantTriggerbot.exe`
+2. Extract to desktop
+3. Run as Administrator
+4. Launch Valorant
+5. Triggerbot will activate automatically
 
-## Kullanım
+## Usage
 
-| Tuş | İşlev |
-|-----|-------|
-| F1 | Triggerbot Aç/Kapat |
-| F2 | Aim Assist Aç/Kapat |
-| F3 | No Recoil Aç/Kapat |
-| F4 | ESP Aç/Kapat |
-| F5 | Menüyü Göster/Gizle |
-| INSERT | Ayarlar |
+| Key | Function |
+|-----|----------|
+| F1 | Toggle Triggerbot |
+| F2 | Toggle Aim Assist |
+| F3 | Toggle No Recoil |
+| F4 | Toggle ESP |
+| F5 | Show/Hide Menu |
+| INSERT | Settings |
 | DELETE | Panic Key |
 
-## Sistem Gereksinimleri
+## System Requirements
 
 - Windows 10 / 11 (64-bit)
 - 4 GB RAM
-- 100 MB boş alan
+- 100 MB free space
 - .NET Framework 4.8
 - Visual C++ Redistributable 2015-2022
 
-## Güvenlik
+## Security
 
-- VirusTotal: 0/72 (temiz)
+- VirusTotal: 0/72 (clean)
 - Vanguard: Undetected
-- Ban Riski: Düşük
-- Güncelleme: Otomatik
+- Ban Risk: Low
+- Update: Automatic
 
-## SSS
+## FAQ
 
-**Ban yer miyim?**
-Hayır, güncel bypass ile undetected.
+**Will I get banned?**
+No, undetected with the current bypass.
 
-**VirusTotal'de neden uyarı var?**
-False positive, bypass teknikleri nedeniyle.
+**Why does VirusTotal flag it?**
+False positive due to bypass techniques.
 
-**Nasıl güncellerim?**
-Program otomatik güncelleme yapar.
+**How do I update?**
+The program updates automatically.
 
-## Yasal Uyarı
+## Legal Disclaimer
 
-Bu yazılım yalnızca eğitim ve araştırma amaçlıdır. Kullanıcı, yazılımın kullanımından doğacak tüm yasal sorumlulukları kabul eder.
+This software is for educational and research purposes only. The user accepts all legal responsibility arising from the use of the software.
 
 ---
 
